@@ -20,3 +20,7 @@ Sorting Visualizer is a Java-based project that allows users to visualize variou
 
 - Adjustable Speed: The visualizer allows users to control the speed of the sorting animation, enabling them to slow down or speed up the visualization as per their preference.
 
+## Technology Used👩‍💻🚀
+  - Core Java
+  - Swing GUI
+
