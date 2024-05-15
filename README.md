@@ -10,6 +10,10 @@ Sorting Visualizer is a Java-based project that allows users to visualize variou
 
 - Sorting Algorithms: The visualizer supports a variety of sorting algorithms, including but not limited to:
   - Bubble Sort
+
+https://github.com/vikas-kumar-09/Sorting_Algorithm_Visualizer/assets/71463579/a4594e98-0c4c-4785-b378-75aa1b2d4888
+
+
   - Selection Sort
   - Insertion Sort
   - Merge Sort
